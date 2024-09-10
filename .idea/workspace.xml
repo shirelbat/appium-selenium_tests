@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bed603e-c3bf-490a-b819-73a0c946dd37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/appium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Python_tests_for_appium___selenium_wait_Test_HOT5_test_02_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finall.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kNPeLsSw3b7mX4se2fCsjaHN2i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for MyFirstTest.Phon_Test.test_phon.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.Test_HOT.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.Test_HOT.test_01_phon.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.Test_HOT.test_02_messege.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.Test_HOT.test_03_phon_or_nessege.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.Test_HOT.test_04_pone_in_time_activity.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.Test_HOT.test_05_phon_and_nessage.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.Test_HOT.test_pone_in_time_activity.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.clockTest.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.clockTest.test1.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.clockTest.test_messeges.executor": "Run",
+    "Python tests.Python tests for MyFirstTest.clockTest.test_phon.executor": "Run",
+    "Python tests.Python tests for appium_&_selenium_wait.Test_HOT.test_02_message.executor": "Run",
+    "Python tests.Python tests for appium_&_selenium_wait.Test_HOT5.executor": "Run",
+    "Python tests.Python tests for appium_&_selenium_wait.Test_HOT5.test_02_message.executor": "Run",
+    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.executor": "Run",
+    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_02_message.executor": "Run",
+    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_03_phon_or_message.executor": "Run",
+    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_04_pone_in_time_activity.executor": "Run",
+    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_05_phon_and_message.executor": "Run",
+    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_05_phon_and_nessage.executor": "Run",
+    "Python tests.Python tests for appium_selenium_wait.Test_HOT.test_01_phon.executor": "Run",
+    "Python tests.Python tests for appium_selenium_wait.Test_HOT.test_02_message.executor": "Run",
+    "Python tests.Python tests for finall.Test_HOT.test_01_phon.executor": "Run",
+    "Python tests.Python tests for finall.Test_HOT.test_02_message.executor": "Run",
+    "Python tests.Python tests for finall.Test_HOT.test_03_phon_or_message.executor": "Run",
+    "Python tests.Python tests for finall.Test_HOT.test_04_pone_in_time_activity.executor": "Run",
+    "Python tests.Python tests for finall.Test_HOT.test_05_phon_and_message.executor": "Run",
+    "Python tests.Python tests in MyFirstTest.py.executor": "Run",
+    "Python tests.Python tests in Project_Appium_&_selenium.py.executor": "Run",
+    "Python tests.Python tests in appium_&_selenium_wait.py.executor": "Run",
+    "Python.Project_Appium_&_selenium (1).executor": "Run",
+    "Python.one_step.executor": "Run",
+    "Python.try_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run Python file" flag="true" />
+      <visibility group="Run conda command" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="Run pip command" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.RunAnythingRunConfigurationProvider" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.activity.RunAnythingRecentProjectProvider" flag="true" />
+      <visibility group="com.jetbrains.python.run.runAnything.PyRunAnythingCondaProvider" flag="true" />
+      <visibility group="com.jetbrains.python.run.runAnything.PyRunAnythingFileProvider" flag="true" />
+      <visibility group="com.jetbrains.python.run.runAnything.PyRunAnythingPipProvider" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for finall.Test_HOT.test_05_phon_and_message">
+    <configuration name="Python tests for finall.Test_HOT.test_01_phon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;finall.Test_HOT.test_01_phon&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for finall.Test_HOT.test_02_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;finall.Test_HOT.test_02_message&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for finall.Test_HOT.test_03_phon_or_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;finall.Test_HOT.test_03_phon_or_message&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for finall.Test_HOT.test_04_pone_in_time_activity" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;finall.Test_HOT.test_04_pone_in_time_activity&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for finall.Test_HOT.test_05_phon_and_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;finall.Test_HOT.test_05_phon_and_message&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_05_phon_and_message" />
+        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_04_pone_in_time_activity" />
+        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_03_phon_or_message" />
+        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_02_message" />
+        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_01_phon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bed603e-c3bf-490a-b819-73a0c946dd37" name="Changes" comment="" />
+      <created>1723121155146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723121155146</updated>
+    </task>
+    <servers />
+  </component>
+</project>
