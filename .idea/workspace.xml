@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bed603e-c3bf-490a-b819-73a0c946dd37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/appium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Python_tests_for_appium___selenium_wait_Test_HOT5_test_02_message.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finall.py" afterDir="false" />
+    <list default="true" id="5bed603e-c3bf-490a-b819-73a0c946dd37" name="Changes" comment="This program uses Appium and Selenium to automate mobile and web testing. It includes tests for calling and messaging functionalities on an Android device, with validation based on the current time and interaction with the HOT Mobile website.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Appium_Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,49 +32,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for MyFirstTest.Phon_Test.test_phon.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.Test_HOT.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.Test_HOT.test_01_phon.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.Test_HOT.test_02_messege.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.Test_HOT.test_03_phon_or_nessege.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.Test_HOT.test_04_pone_in_time_activity.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.Test_HOT.test_05_phon_and_nessage.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.Test_HOT.test_pone_in_time_activity.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.clockTest.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.clockTest.test1.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.clockTest.test_messeges.executor": "Run",
-    "Python tests.Python tests for MyFirstTest.clockTest.test_phon.executor": "Run",
-    "Python tests.Python tests for appium_&_selenium_wait.Test_HOT.test_02_message.executor": "Run",
-    "Python tests.Python tests for appium_&_selenium_wait.Test_HOT5.executor": "Run",
-    "Python tests.Python tests for appium_&_selenium_wait.Test_HOT5.test_02_message.executor": "Run",
-    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.executor": "Run",
-    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_02_message.executor": "Run",
-    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_03_phon_or_message.executor": "Run",
-    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_04_pone_in_time_activity.executor": "Run",
-    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_05_phon_and_message.executor": "Run",
-    "Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_05_phon_and_nessage.executor": "Run",
-    "Python tests.Python tests for appium_selenium_wait.Test_HOT.test_01_phon.executor": "Run",
-    "Python tests.Python tests for appium_selenium_wait.Test_HOT.test_02_message.executor": "Run",
-    "Python tests.Python tests for finall.Test_HOT.test_01_phon.executor": "Run",
-    "Python tests.Python tests for finall.Test_HOT.test_02_message.executor": "Run",
-    "Python tests.Python tests for finall.Test_HOT.test_03_phon_or_message.executor": "Run",
-    "Python tests.Python tests for finall.Test_HOT.test_04_pone_in_time_activity.executor": "Run",
-    "Python tests.Python tests for finall.Test_HOT.test_05_phon_and_message.executor": "Run",
-    "Python tests.Python tests in MyFirstTest.py.executor": "Run",
-    "Python tests.Python tests in Project_Appium_&_selenium.py.executor": "Run",
-    "Python tests.Python tests in appium_&_selenium_wait.py.executor": "Run",
-    "Python.Project_Appium_&_selenium (1).executor": "Run",
-    "Python.one_step.executor": "Run",
-    "Python.try_1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for MyFirstTest.Phon_Test.test_phon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.Test_HOT.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.Test_HOT.test_01_phon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.Test_HOT.test_02_messege.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.Test_HOT.test_03_phon_or_nessege.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.Test_HOT.test_04_pone_in_time_activity.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.Test_HOT.test_05_phon_and_nessage.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.Test_HOT.test_pone_in_time_activity.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.clockTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.clockTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.clockTest.test_messeges.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for MyFirstTest.clockTest.test_phon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_&amp;_selenium_wait.Test_HOT.test_02_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_&amp;_selenium_wait.Test_HOT5.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_&amp;_selenium_wait.Test_HOT5.test_02_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_selenium_wait.Test_5HOT5.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_02_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_03_phon_or_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_04_pone_in_time_activity.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_05_phon_and_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_selenium_wait.Test_5HOT5.test_05_phon_and_nessage.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_selenium_wait.Test_HOT.test_01_phon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for appium_selenium_wait.Test_HOT.test_02_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for finall.Test_HOT.test_01_phon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for finall.Test_HOT.test_02_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for finall.Test_HOT.test_03_phon_or_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for finall.Test_HOT.test_04_pone_in_time_activity.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for finall.Test_HOT.test_05_phon_and_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in MyFirstTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Project_Appium_&amp;_selenium.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in appium_&amp;_selenium_wait.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Project_Appium_&amp;_selenium (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.finall.executor&quot;: &quot;Run&quot;,
+    &quot;Python.one_step.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <myKeys>
       <visibility group="Recent projects" flag="true" />
@@ -96,8 +90,30 @@
       <visibility group="com.jetbrains.python.run.runAnything.PyRunAnythingPipProvider" flag="true" />
     </myKeys>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for finall.Test_HOT.test_05_phon_and_message">
-    <configuration name="Python tests for finall.Test_HOT.test_01_phon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.finall">
+    <configuration name="finall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../appium" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../appium/finall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Appium_Test.Test_HOT.test_02_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="appium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +124,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;finall.Test_HOT.test_01_phon&quot;" />
+      <option name="_new_target" value="&quot;Appium_Test.Test_HOT.test_02_message&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for finall.Test_HOT.test_02_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Appium_Test.Test_HOT.test_03_phon_or_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="appium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +139,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;finall.Test_HOT.test_02_message&quot;" />
+      <option name="_new_target" value="&quot;Appium_Test.Test_HOT.test_03_phon_or_message&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for finall.Test_HOT.test_03_phon_or_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Appium_Test.Test_HOT.test_04_pone_in_time_activity" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="appium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +154,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;finall.Test_HOT.test_03_phon_or_message&quot;" />
+      <option name="_new_target" value="&quot;Appium_Test.Test_HOT.test_04_pone_in_time_activity&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for finall.Test_HOT.test_04_pone_in_time_activity" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Appium_Test.Test_HOT.test_05_phon_and_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="appium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,32 +169,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;finall.Test_HOT.test_04_pone_in_time_activity&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for finall.Test_HOT.test_05_phon_and_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="appium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;finall.Test_HOT.test_05_phon_and_message&quot;" />
+      <option name="_new_target" value="&quot;Appium_Test.Test_HOT.test_05_phon_and_message&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_05_phon_and_message" />
-        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_04_pone_in_time_activity" />
-        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_03_phon_or_message" />
-        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_02_message" />
-        <item itemvalue="Python tests.Python tests for finall.Test_HOT.test_01_phon" />
+        <item itemvalue="Python.finall" />
+        <item itemvalue="Python tests.Python tests for Appium_Test.Test_HOT.test_05_phon_and_message" />
+        <item itemvalue="Python tests.Python tests for Appium_Test.Test_HOT.test_04_pone_in_time_activity" />
+        <item itemvalue="Python tests.Python tests for Appium_Test.Test_HOT.test_03_phon_or_message" />
+        <item itemvalue="Python tests.Python tests for Appium_Test.Test_HOT.test_02_message" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +199,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723121155146</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="This program uses Appium and Selenium to automate mobile and web testing. It includes tests for calling and messaging functionalities on an Android device, with validation based on the current time and interaction with the HOT Mobile website.">
+      <option name="closed" value="true" />
+      <created>1725962918651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1725962918651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This program uses Appium and Selenium to automate mobile and web testing. It includes tests for calling and messaging functionalities on an Android device, with validation based on the current time and interaction with the HOT Mobile website." />
+    <option name="LAST_COMMIT_MESSAGE" value="This program uses Appium and Selenium to automate mobile and web testing. It includes tests for calling and messaging functionalities on an Android device, with validation based on the current time and interaction with the HOT Mobile website." />
   </component>
 </project>
