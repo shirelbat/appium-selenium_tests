@@ -21,6 +21,7 @@ capabilities = dict(
     platformVersion="35"
 )
 
+
 class Test_HOT(unittest.TestCase):
     def setUp(self) -> None:
         # Initialize Appium driver for Android Dialer application
